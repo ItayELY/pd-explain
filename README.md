@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Demo
 
-[Demo Spotify example](https://github.com/analysis-bots/pd-explain/blob/main/Examples/Notebooks/PD-explain%20DEMO.ipynb)
+[Demo Spotify example](https://github.com/analysis-bots/pd-explain/blob/main/src/demo.ipynb)
 
 
 ![Demo Spotify example notebook - click to view](./assets/pdexplain_demo.gif)
